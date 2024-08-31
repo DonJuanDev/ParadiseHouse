@@ -1054,7 +1054,7 @@ button[type=submit] {
   margin-left: 5px;
 }
 .slider .slider-container .inner-elements .container .button-prev {
-  width: 40px;
+  width: 46px;
   position: absolute;
   right: 10px;
   top: calc(50% + 60px);
@@ -1086,7 +1086,7 @@ button[type=submit] {
   top: 5px;
 }
 .slider .slider-container .inner-elements .container .button-next {
-  width: 40px;
+  width: 46px;
   position: absolute;
   right: 10px;
   top: calc(50% + 60px);
