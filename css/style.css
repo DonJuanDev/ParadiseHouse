@@ -1078,7 +1078,7 @@ button[type=submit] {
 }
 .slider .slider-container .inner-elements .container .button-prev:after {
   content: "";
-  width: 42px;
+  width: 46px;
   height: 1px;
   background: #fff;
   position: absolute;
