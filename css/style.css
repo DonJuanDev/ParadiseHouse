@@ -1770,6 +1770,13 @@ button[type=submit] {
 }
 
 /* FAQ ACCORDION */
+#accordioncont {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 500px;
+}
+
 .accordion {
     background-color: #fff;
     border-radius: 8px;
