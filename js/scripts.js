@@ -58,7 +58,16 @@
 		});
 	
 	
-	
+	// ACCORDION
+		const accordions = document.querySelectorAll('.accordion');
+
+accordions.forEach(accordion => {
+    accordion.addEventListener('click', () => {
+        const body = accordion.querySelector('.accordion-body');
+        body.classList.toggle('active');
+    })
+})
+		
 	// DATA BACKGROUND IMAGE
 			var pageSection = $("*");
 			pageSection.each(function(indx){
