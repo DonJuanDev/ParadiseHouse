@@ -1775,6 +1775,9 @@ button[type=submit] {
     flex-direction: column;
     gap: 8px;
     width: 500px;
+    margin: 0 auto;
+    height: 300px;
+   
 }
 
 .accordion {
